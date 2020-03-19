@@ -38,6 +38,7 @@ alias cdb='cqlsh.py 10.125.235.51 9042'
 
 alias vps='ssh -p 22780 changxin@144.34.218.239'
 alias vpsc='ssh -p 26050 changxin@176.122.160.198'
+alias tencent_vps='ssh -p 22780 changxin@152.136.138.121'
 
 # connect for work
 alias qgo="python /Users/changxin.cheng/py.py"

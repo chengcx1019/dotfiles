@@ -33,7 +33,8 @@ export PATH=${CASSANDRA_HOME}/bin:${PATH}
 # export ALL_PROXY=socks5://127.0.0.1:1086
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
 
-
+# rust
+export RUSTUP_DIST_SERVER=https://mirrors.tuna.tsinghua.edu.cn/rustup
 # go
 export PATH=$GOPATH/bin:$PATH
 
