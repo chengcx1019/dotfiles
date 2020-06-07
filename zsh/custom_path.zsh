@@ -25,14 +25,14 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home
 export PATH=${JAVA_HOME}/bin:${PATH}
 export CASSANDRA_HOME=/module/apache-cassandra
+export BREW_HOME=/usr/local/Cellar
 export PATH=${CASSANDRA_HOME}/bin:${PATH}
 
 # anaconda
 # export ANACONDA_HOME=/anaconda3
 # export PATH=${ANACONDA_HOME}/bin:${PATH}
 # export ALL_PROXY=socks5://127.0.0.1:1086
-export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
-
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 # rust
 export RUSTUP_DIST_SERVER=https://mirrors.tuna.tsinghua.edu.cn/rustup
 # go
